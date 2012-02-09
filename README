@@ -1,0 +1,3 @@
+vyatta-ddos-blackhole
+
+Script em Python que monitora a interface via tcpdump para deteccao de DDoS/DoS e adiciona o ip de destino em blackhole.
